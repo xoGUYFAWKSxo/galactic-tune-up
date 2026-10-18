@@ -134,6 +134,12 @@ Simply double-click **`Start-TuneUp.bat`** in the root of the workspace folder. 
 
 This is the active, public repository; all development happens here. Development history before 2026-10-12 lives in a private archive repository that is no longer updated.
 
+## Support
+
+Galactic Studio makes free, open-source Windows tools. If this one is useful to you, a donation helps keep them going.
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=KK7CBMCLSJHWW"><img src="docs/assets/donate-button.png" alt="Support Galactic Studio" width="360"></a>
+
 ## License
 
 Galactic Tune-Up is free software, licensed under the [GNU General Public License v3.0](LICENSE). You may use, study, share and modify it; if you distribute a modified version, it must also be released under GPL-3.0 with its source code.
